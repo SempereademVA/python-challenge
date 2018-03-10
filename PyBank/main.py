@@ -1,9 +1,10 @@
 import os
 os.system("clear")
-#os.chdir
 
 import csv
 
+
+#This Python program completes the Option 1 assignment for the Python Homework.
 
 # Store the file path associated with the file (note the backslash may be OS specific) 
 
