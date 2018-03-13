@@ -1,0 +1,9 @@
+Financial Analysis
+Data Processed on: 2018-03-13 00:46:35.685723
+------------------------------------------
+Total Months: 41
+Total Revenue: $18971412
+Average Revenue: Change: $-6759
+Greatest Increase in Revenue: Feb-16 (1837235)
+Greatest Decrease in Revenue: Aug-14 (-1779747)
+
